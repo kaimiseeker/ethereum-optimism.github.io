@@ -1,0 +1,16 @@
+{
+  "name": "TrueFi",
+  "symbol": "TRU",
+  "decimals": 8,
+  "description": "TRU is the native token of the TrueFi protocol.\n\nhttps://docs.truefi.io/faq/truefi-protocol/tru-token",
+  "website": "https://www.truefi.io/",
+  "twitter": "https://twitter.com/TrueFiDAO",
+  "tokens": {
+    "ethereum": {
+      "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784"
+    },
+    "base": {
+      "address": "0x6622359355c4dc39d548bd4e0a6ae10a6b6f7fb5"
+    }
+  }
+}
